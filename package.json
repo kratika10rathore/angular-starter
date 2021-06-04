@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "lighthouse": " lighthouse --output-path=./reports/lighthouse-report.json --quiet --chrome-flags='--headless'   https://angular-starter.ganatan.com"
+    "lighthouse": " lighthouse --output-path=./reports/lighthouse-report.html --quiet --chrome-flags='--headless'   https://angular-starter.ganatan.com"
 
   },
   "author": {
